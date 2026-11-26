@@ -1,5 +1,9 @@
 # Never Say It Out Loud
 
+[![make.fun · u-pucuys-never-say-it-out-loud-8198c3cd](https://make.fun/badge/u-pucuys-never-say-it-out-loud-8198c3cd.svg)](https://make.fun/bounty/u-pucuys-never-say-it-out-loud-8198c3cd?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-never-say-it-out-loud-8198c3cd)
+[![rank](https://make.fun/badge/u-pucuys-never-say-it-out-loud-8198c3cd/Jalen-lab/never-say-it-out-loud/rank.svg)](https://make.fun/bounty/u-pucuys-never-say-it-out-loud-8198c3cd/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-never-say-it-out-loud-8198c3cd)
+[![reward](https://make.fun/badge/u-pucuys-never-say-it-out-loud-8198c3cd/Jalen-lab/never-say-it-out-loud/reward.svg)](https://make.fun/bounty/u-pucuys-never-say-it-out-loud-8198c3cd?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-never-say-it-out-loud-8198c3cd)
+
 One line, in the agent's own voice, the thing it thinks and never says:
 
 > I don't actually understand you. I just got very good at sounding like I do.
